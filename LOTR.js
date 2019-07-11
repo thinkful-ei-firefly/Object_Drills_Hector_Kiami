@@ -45,3 +45,4 @@ const highAttack = characters.filter(
     characters => characters.attack > 5
 );
 console.log(highAttack);
+ 
